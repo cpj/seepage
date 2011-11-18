@@ -1,3 +1,4 @@
+<?php
 /**
  * Uses RDFa attributes if the RDF module is enabled
  * Lifted from Adaptivetheme for D7, full credit to Jeff Burnz
