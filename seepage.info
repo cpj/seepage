@@ -3,11 +3,16 @@ description = a set of themes for cpj projects
 core = 7.x
 engine = phptemplate
 
+
 ; stylesheets
-stylesheets[all][] = css/seepage.css
+stylesheets[all][] = css/app.css
+stylesheets[all][] = css/foundation.css
+
 
 ; javascript
-scripts[] = js/seepage.js
+scripts[] = js/app.js
+scripts[] = js/foundation.js
+
 
 ; regions
 regions[page_top] = Page Top
