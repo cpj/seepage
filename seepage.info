@@ -12,7 +12,7 @@ stylesheets[all][] = css/app.css
 ; javascript
 scripts[] = js/foundation.js
 scripts[] = js/app.js
-
+=======
 
 ; regions
 regions[page_top] = Page Top
